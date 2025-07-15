@@ -19,7 +19,7 @@
 - 🤝 Open to collaborate on NLP and ML projects for healthcare, RAG, or analytics
 - 📝 Read my latest post: [Predicting Diabetes with ML – A Step-by-Step Guide](https://medium.com/@ShreyasDasari/analyzing-diagnostic-measures-to-predict-diabetes-using-machine-learning-a-step-by-step-guide-3bd4ad6abe2d)
 - 📫 Reach me at: **shreyasdasarieducation@gmail.com**
-- 📄 [View My Resume](https://www.overleaf.com/read/vmjchnyjzgqy#d440ed)
+- 📄 [View My Resume](https://drive.google.com/file/d/1iGhFaGUOIdzT6-fkBm6x-ujRdJE78MvZ/view?usp=sharing)
 
 ---
 

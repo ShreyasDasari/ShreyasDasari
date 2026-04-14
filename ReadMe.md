@@ -6,7 +6,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=vercel&logoColor=white)](https://shreyasdasari.framer.website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=vercel&logoColor=white)]
+(https://shreyasdasari-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-dasari)
 [![Medium](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shreyasdasari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasdasarieducation@gmail.com)
@@ -194,18 +195,6 @@ End-to-end supervised learning pipeline predicting diabetes from diagnostic meas
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreyasdasari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8c8ff&icon_color=0f3460&text_color=c9d1d9" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasdasari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a8c8ff&text_color=c9d1d9" height="165"/>
 
 </div>
 
